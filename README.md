@@ -224,8 +224,8 @@ The agent follows this training loop:
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd Flappy_Bird
+git clone https://github.com/Amrendra29/Flappy_Bird_Game_Agent.git
+cd Flappy_Bird_Game_Agent
 ```
 
 Create a virtual environment:
@@ -386,11 +386,6 @@ Improved Agent
 
 B.Tech — Computer Science & Engineering (Artificial Intelligence)
 
-### Connect With Me
-
-- GitHub: [Add your GitHub profile]
-- LinkedIn: [Add your LinkedIn profile]
-- LeetCode: [Add your LeetCode profile]
 
 ---
 
